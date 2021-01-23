@@ -772,8 +772,8 @@ input[type='checkbox'] {
 /*    04. Header     */
 /*********************/
 .header {
-	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/Transport Falticeni Suceava Cluj Bistrita Londra Paris Anglia Franta.jpg') center center no-repeat;
-	background-size: cover;
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/Transport\ persoane\ colete\ pachete\ Falticeni\ Suceava.jpeg') center center no-repeat;
+	background-size:cover
 }
 
 .header .header-content {
